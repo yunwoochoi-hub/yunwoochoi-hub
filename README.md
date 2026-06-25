@@ -1,5 +1,5 @@
 
-최윤우 교수
+안녕하세요. 최윤우 교수입니다.
 <!--
 **yunwoochoi-hub/yunwoochoi-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
